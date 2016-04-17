@@ -1,2 +1,2 @@
 # hello-world
-This is my study repository.XD
+This is my first study repository.XD
